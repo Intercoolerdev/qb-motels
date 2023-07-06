@@ -10,7 +10,7 @@ Motel system for QB-Core Framework
 - [qb-houses](https://github.com/qbcore-framework/qb-houses) - House logic
 - [qb-interior](https://github.com/qbcore-framework/qb-interior) - Interior logic
 - [qb-weathersync](https://github.com/qbcore-framework/qb-weathersync) - To desync weather while inside
-- [qb-spawn](https://github.com/qbcore-framework/qb-spawn) - To spawn the player at apartment if last location was in motel
+- [qb-spawn](https://github.com/qbcore-framework/qb-spawn) - To spawn the player at motel if last location was in motel
 
 
 
