@@ -17,10 +17,11 @@ Motel system for QB-Core Framework
 ### Installation
 
 1. Download "qb-motels" from my github page (I guess you've already done that, lol)
-2. Remove the -main from "qb-motels-main" To "qb-motels"
-3. Drag and drop it into your "resources" folder. If your new, i would recommend dropping it into your [qb] folder.
-4. If you drop it anywhere outside of your [qb] folder. Then go to your server.cfg. And type in "ensure qb-houses"
-5. And give me feedbacks about the script ;)
+2. Delete "qb-apartments" from your resources folder
+3. Open "qb-motels-main". In there you'll find "qb-motels".
+4. Drag and drop it into your "resources" folder. If your new, i would recommend dropping it into your [qb] folder.
+5. If you drop it anywhere outside of your [qb] folder. Then go to your server.cfg. And type in "ensure qb-houses"
+6. And give me feedbacks about the script ;)
 
 
 #### Entries
